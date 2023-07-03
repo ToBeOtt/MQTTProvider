@@ -1,0 +1,24 @@
+﻿Copy this into your appsettings-file in your project. 
+
+ "MqttSettings": {
+    "BrokerUrl": "localhost",
+    "Port": 1883,
+    "ClientId": "MyClient",
+    "Username": "muUsername",
+    "Password": "myPassword",
+    "Topic": "myTopic"
+  },
+
+Copy this into startup or program.cs:
+
+IConfiguration configuration = new ConfigurationBuilder()
+.SetBasePath(Directory.GetCurrentDirectory())
+.AddJsonFile("appsettings.json")
+.Build();
+
+MqttClientSettings mqttClientSettings =
+MqttClientSettings.GetMqttClientSettings(configuration);
+
+MqttClientProvider mqttClientProvider = new MqttClientProvider(mqttClientSettings);
+
+builder.Services.AddSingleton<MqttClientProvider>(mqttClientProvider);

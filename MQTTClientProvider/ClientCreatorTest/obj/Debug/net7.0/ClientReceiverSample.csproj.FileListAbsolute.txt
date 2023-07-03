@@ -1,0 +1,138 @@
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\appsettings.json
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.staticwebassets.runtime.json
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.exe
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.deps.json
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.runtimeconfig.json
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.pdb
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\MQTT-ClientProvider.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\MQTT-ClientProvider.pdb
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.csproj.AssemblyReference.cache
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.AssemblyInfoInputs.cache
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.AssemblyInfo.cs
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.csproj.CoreCompileInputs.cache
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.RazorAssemblyInfo.cache
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.RazorAssemblyInfo.cs
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.ClientReceiverSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.build.ClientReceiverSample.props
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ClientReceiverSample.props
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ClientReceiverSample.props
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\scopedcss\bundle\ClientReceiverSample.styles.css
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\scopedcss\projectbundle\ClientReceiverSample.bundle.scp.css
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.csproj.CopyComplete
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\refint\ClientReceiverSample.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.pdb
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.genruntimeconfig.cache
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ref\ClientReceiverSample.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\appsettings.Development.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\appsettings.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.staticwebassets.runtime.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.exe
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.deps.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.runtimeconfig.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\MQTTnet.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\MQTT-ClientProvider.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.csproj.AssemblyReference.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.AssemblyInfoInputs.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.AssemblyInfo.cs
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.csproj.CoreCompileInputs.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.RazorAssemblyInfo.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.RazorAssemblyInfo.cs
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.ClientReceiverSample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.build.ClientReceiverSample.props
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ClientReceiverSample.props
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ClientReceiverSample.props
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets.build.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets.development.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\scopedcss\bundle\ClientReceiverSample.styles.css
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\scopedcss\projectbundle\ClientReceiverSample.bundle.scp.css
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.csproj.CopyComplete
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\refint\ClientReceiverSample.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.genruntimeconfig.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ref\ClientReceiverSample.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\appsettings.Development.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\appsettings.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.staticwebassets.runtime.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.exe
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.deps.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.runtimeconfig.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\ClientReceiverSample.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\MQTTnet.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\bin\Debug\net7.0\MQTT-ClientProvider.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.csproj.AssemblyReference.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.AssemblyInfoInputs.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.AssemblyInfo.cs
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.csproj.CoreCompileInputs.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.MvcApplicationPartsAssemblyInfo.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.RazorAssemblyInfo.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.RazorAssemblyInfo.cs
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.ClientReceiverSample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.build.ClientReceiverSample.props
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ClientReceiverSample.props
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ClientReceiverSample.props
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets.build.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\staticwebassets.development.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\scopedcss\bundle\ClientReceiverSample.styles.css
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\scopedcss\projectbundle\ClientReceiverSample.bundle.scp.css
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.csproj.CopyComplete
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\refint\ClientReceiverSample.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ClientReceiverSample.genruntimeconfig.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\ClientCreatorTest\obj\Debug\net7.0\ref\ClientReceiverSample.dll

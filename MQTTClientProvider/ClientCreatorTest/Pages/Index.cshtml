@@ -1,0 +1,48 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Sample MQTT-client creation";
+}
+
+<div class="text-left">
+    <h1 class="display-4">Sample of the MQTT-client provider</h1>
+    <p><strong>This is a demo of sample methods for using the MQTT-client.</strong></p>
+    <p><em>Necessary packages includes: System.Configuration.ConfigurationManager
+    </em></p>
+    <h4>Instructions</h4>
+    <hr />
+    <p><strong>1 - </strong> Reference the class library MQTTClientProvider to your project.</></p>
+    <hr />
+    <p>
+        <strong>2 - </strong> In your appsettings.json file, copy this data:<br />
+        <em>
+            "MqttSettings": { <br />
+        "BrokerUrl": "localhost",<br />
+        "Port": 1883, <br />
+        "ClientId": "MyClient", <br />
+    "Username": "myUsername", <br />
+        "Password": "myPassword", <br />
+        "Topic": "myTopic" <br />
+            },</><br />
+        </em>
+  Change the necessary configuration-information for the MQTT-client. Add or remove information.</p>
+    <hr />
+    <p>
+        <strong>3 - </strong> Add following code to your startup or program.cs: <br />
+
+        <em>IConfiguration configuration = new ConfigurationBuilder()<br />
+        .SetBasePath(Directory.GetCurrentDirectory())<br />
+        .AddJsonFile("appsettings.json")<br />
+        .Build();<br /><br />
+
+        MqttClientSettings mqttClientSettings =<br />
+        MqttClientSettings.GetMqttClientSettings(configuration);<br /><br />
+
+            MqttClientProvider mqttClientProvider = new MqttClientProvider(mqttClientSettings);
+        </em>
+        <br />
+        </></p>
+    <hr />
+    <p><strong>4 - </strong> See sample app, ClientCreatorSample, for more info and comments.<br />
+</div>
+

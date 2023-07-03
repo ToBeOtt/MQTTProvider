@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vDDpX3rzoZkzM6f+pf8FQd7VJJiFZXfMapZ5zeKfryps68v+xMBwC8IeJ7PM+ECyLWmcE6R5STQW2JxTv5gOvg==",
+  "success": true,
+  "projectFilePath": "D:\\Repositories\\Hämtade REPOS\\MqttClientProvider\\MQTTClientProvider\\MQTT-ClientProvider\\MQTT-ClientProvider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tacri\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\tacri\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
+    "C:\\Users\\tacri\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\tacri\\.nuget\\packages\\mqttnet\\4.2.0.706\\mqttnet.4.2.0.706.nupkg.sha512"
+  ],
+  "logs": []
+}

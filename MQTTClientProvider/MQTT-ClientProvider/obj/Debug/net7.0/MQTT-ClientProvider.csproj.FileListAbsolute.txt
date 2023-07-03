@@ -1,0 +1,36 @@
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.csproj.AssemblyReference.cache
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.AssemblyInfoInputs.cache
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.AssemblyInfo.cs
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.csproj.CoreCompileInputs.cache
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\bin\Debug\net7.0\MQTT-ClientProvider.deps.json
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\bin\Debug\net7.0\MQTT-ClientProvider.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\bin\Debug\net7.0\MQTT-ClientProvider.pdb
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\refint\MQTT-ClientProvider.dll
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.pdb
+C:\Users\tacri\source\repos\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\ref\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\bin\Debug\net7.0\MQTT-ClientProvider.deps.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\bin\Debug\net7.0\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\bin\Debug\net7.0\MQTT-ClientProvider.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.csproj.AssemblyReference.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.AssemblyInfoInputs.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.AssemblyInfo.cs
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.csproj.CoreCompileInputs.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\refint\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\BinarMQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\ref\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\bin\Debug\net7.0\MQTT-ClientProvider.deps.json
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\bin\Debug\net7.0\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\bin\Debug\net7.0\MQTT-ClientProvider.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.csproj.AssemblyReference.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.AssemblyInfoInputs.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.AssemblyInfo.cs
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.csproj.CoreCompileInputs.cache
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\refint\MQTT-ClientProvider.dll
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\MQTT-ClientProvider.pdb
+D:\Repositories\Hämtade REPOS\MqttClientProvider\MQTTClientProvider\MQTT-ClientProvider\obj\Debug\net7.0\ref\MQTT-ClientProvider.dll
